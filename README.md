@@ -85,7 +85,9 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   <br>
   <em>Figure: L1 Cognitive Autonomy — Internal threats targeting the Reasoning Engine, Memory System, and Perception module.</em>
 </div>
+
 <br>
+
 > *Threats at this layer target the agent's internal cognitive integrity: its reasoning engine, perception module, and memory system.*
 
 ### Indirect Prompt Injection
@@ -256,6 +258,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
 ---
 
 ## Part 2: L2 Executional Autonomy — The Doer
+
 <div align="center">
   <img width="850" src="./figures/L2.jpg" alt="L2 Executional Autonomy Threat Landscape">
   <br>
@@ -263,6 +266,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
 </div>
 
 <br>
+
 > *Threats at this layer exploit agents' tool invocation and environmental interaction capabilities, producing real-world kinetic consequences.*
 
 ### Confused Deputy
@@ -420,6 +424,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
 ---
 
 ## Part 3: L3 Collective Autonomy — The Society
+
 <div align="center">
   <img width="850" src="./figures/L3.jpg" alt="L3 Collective Autonomy Threat Landscape">
   <br>
@@ -427,6 +432,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
 </div>
 
 <br>
+
 > *Threats at this layer target multi-agent systems, exhibiting viral propagation, emergent collusion, and systemic collapse — properties fundamentally distinct from individual agent vulnerabilities.*
 
 ### Malicious Collusion
@@ -547,7 +553,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   <li>
     <i><b>Energy-Latency Attacks: A New Adversarial Threat to Deep Learning</b></i>, Hanene FZ Brachemi Meftah et al.
     <a href="https://arxiv.org/abs/2502.00000" target="_blank">
-      <img src="https://img.shields.io/badge/Computing%20Surveys-2025-blue" alt="Computing Surveys 2025">
+      <img src="https://img.shields.io/badge/ACM%20Computing%20Surveys-2025-blue" alt="ACM Computing Surveys 2025">
     </a>
   </li>
   <li>
