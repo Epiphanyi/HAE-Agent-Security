@@ -80,6 +80,12 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
 
 ## Part 1: L1 Cognitive Autonomy — The Thinker
 
+<div align="center">
+  <img width="850" src="./figures/L1.jpg" alt="L1 Cognitive Autonomy Threat Landscape">
+  <br>
+  <em>Figure: L1 Cognitive Autonomy — Internal threats targeting the Reasoning Engine, Memory System, and Perception module.</em>
+</div>
+<br>
 > *Threats at this layer target the agent's internal cognitive integrity: its reasoning engine, perception module, and memory system.*
 
 ### Indirect Prompt Injection
@@ -250,7 +256,13 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
 ---
 
 ## Part 2: L2 Executional Autonomy — The Doer
+<div align="center">
+  <img width="850" src="./figures/L2.jpg" alt="L2 Executional Autonomy Threat Landscape">
+  <br>
+  <em>Figure: L2 Executional Autonomy — Threats arising from tool invocation and real-world environmental interaction.</em>
+</div>
 
+<br>
 > *Threats at this layer exploit agents' tool invocation and environmental interaction capabilities, producing real-world kinetic consequences.*
 
 ### Confused Deputy
@@ -408,7 +420,13 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
 ---
 
 ## Part 3: L3 Collective Autonomy — The Society
+<div align="center">
+  <img width="850" src="./figures/L3.jpg" alt="L3 Collective Autonomy Threat Landscape">
+  <br>
+  <em>Figure: L3 Collective Autonomy — Systemic risks in multi-agent ecosystems including malicious collusion, viral infection, and systemic collapse.</em>
+</div>
 
+<br>
 > *Threats at this layer target multi-agent systems, exhibiting viral propagation, emergent collusion, and systemic collapse — properties fundamentally distinct from individual agent vulnerabilities.*
 
 ### Malicious Collusion
