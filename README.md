@@ -119,13 +119,13 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents</b></i>, Hengyu An et al.
-    <a href="https://arxiv.org/abs/2502.00000" target="_blank">
+    <a href="https://aclanthology.org/2025.emnlp-main.53/" target="_blank">
       <img src="https://img.shields.io/badge/EMNLP-2025-blue" alt="EMNLP 2025">
     </a>
   </li>
   <li>
     <i><b>DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks</b></i>, Yupei Liu et al.
-    <a href="https://arxiv.org/abs/2504.00000" target="_blank">
+    <a href="https://ieeexplore.ieee.org/document/11023476" target="_blank">
       <img src="https://img.shields.io/badge/IEEE%20S%26P-2025-blue" alt="IEEE S&P 2025">
     </a>
   </li>
@@ -196,7 +196,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>LLMs Know Their Vulnerabilities: Uncover Safety Gaps Through Natural Distribution Shifts (ActorBreaker)</b></i>, Qibing Ren et al.
-    <a href="https://arxiv.org/abs/2502.00000" target="_blank">
+    <a href="https://aclanthology.org/2025.acl-long.1207/" target="_blank">
       <img src="https://img.shields.io/badge/ACL-2025-blue" alt="ACL 2025">
     </a>
   </li>
@@ -243,7 +243,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>Memory Injection Attacks on LLM Agents via Query-Only Interaction (MINJA)</b></i>, Shen Dong et al.
-    <a href="https://arxiv.org/abs/2502.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2503.03704" target="_blank">
       <img src="https://img.shields.io/badge/NeurIPS-2025-green" alt="NeurIPS 2025">
     </a>
   </li>
@@ -362,7 +362,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>Hijacking Vision-and-Language Navigation Agents with Adversarial Environmental Attacks</b></i>, Zijiao Yang et al.
-    <a href="https://arxiv.org/abs/2502.00000" target="_blank">
+    <a href="https://ieeexplore.ieee.org/document/10944160" target="_blank">
       <img src="https://img.shields.io/badge/WACV-2025-blue" alt="WACV 2025">
     </a>
   </li>
@@ -464,7 +464,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards</b></i>, Xiangyuan Xue et al.
-    <a href="https://arxiv.org/abs/2602.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2510.08529" target="_blank">
       <img src="https://img.shields.io/badge/ICLR-2026-blue" alt="ICLR 2026">
     </a>
   </li>
@@ -482,7 +482,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>Emergent Social Conventions and Collective Bias in LLM Populations</b></i>, Ariel Flint Ashery et al.
-    <a href="https://arxiv.org/abs/2502.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2410.08948" target="_blank">
       <img src="https://img.shields.io/badge/Science%20Advances-2025-blue" alt="Science Advances 2025">
     </a>
   </li>
@@ -523,7 +523,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>Red-Teaming LLM Multi-Agent Systems via Communication Attacks</b></i>, Pengfei He et al.
-    <a href="https://arxiv.org/abs/2502.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2502.14847" target="_blank">
       <img src="https://img.shields.io/badge/ACL%20Findings-2025-blue" alt="ACL Findings 2025">
     </a>
   </li>
@@ -552,19 +552,19 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>Energy-Latency Attacks: A New Adversarial Threat to Deep Learning</b></i>, Hanene FZ Brachemi Meftah et al.
-    <a href="https://arxiv.org/abs/2502.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2503.04963" target="_blank">
       <img src="https://img.shields.io/badge/ACM%20Computing%20Surveys-2025-blue" alt="ACM Computing Surveys 2025">
     </a>
   </li>
   <li>
     <i><b>ICLScan: Detecting Backdoors in Black-Box Large Language Models via Targeted In-Context Illumination</b></i>, Xiaoyi Pang et al.
-    <a href="https://arxiv.org/abs/2506.00000" target="_blank">
+    <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/118421" target="_blank">
       <img src="https://img.shields.io/badge/NeurIPS-2025-green" alt="NeurIPS 2025">
     </a>
   </li>
   <li>
     <i><b>On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents</b></i>, Jen-tse Huang et al.
-    <a href="https://arxiv.org/abs/2408.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2408.00989" target="_blank">
       <img src="https://img.shields.io/badge/ICML-2025-green" alt="ICML 2025">
     </a>
   </li>
@@ -597,7 +597,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks</b></i>, Yupei Liu et al.
-    <a href="https://arxiv.org/abs/2504.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2504.11358" target="_blank">
       <img src="https://img.shields.io/badge/IEEE%20S%26P-2025-blue" alt="IEEE S&P 2025">
     </a>
   </li>
@@ -609,7 +609,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
   </li>
   <li>
     <i><b>IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents</b></i>, Hengyu An et al.
-    <a href="https://arxiv.org/abs/2502.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2508.15310" target="_blank">
       <img src="https://img.shields.io/badge/EMNLP-2025-blue" alt="EMNLP 2025">
     </a>
   </li>
@@ -620,7 +620,7 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
 <ul>
   <li>
     <i><b>AgentGuard: Runtime Verification of AI Agents</b></i>, Roham Koohestani.
-    <a href="https://arxiv.org/abs/2507.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2509.23864" target="_blank">
       <img src="https://img.shields.io/badge/ASEW-2025-blue" alt="ASEW 2025">
     </a>
   </li>
@@ -643,19 +643,19 @@ Unlike existing surveys that adopt static or single-perspective taxonomies (life
 <ul>
   <li>
     <i><b>G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-Based Multi-Agent Systems</b></i>, Shilong Wang et al.
-    <a href="https://arxiv.org/abs/2502.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2502.11127" target="_blank">
       <img src="https://img.shields.io/badge/ACL-2025-blue" alt="ACL 2025">
     </a>
   </li>
   <li>
     <i><b>Attention Knows Whom to Trust: Attention-Based Trust Management for LLM Multi-Agent Systems (A-Trust)</b></i>, Pengfei He et al.
-    <a href="https://arxiv.org/abs/2501.00000" target="_blank">
+    <a href="https://arxiv.org/abs/2506.02546" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>ICLScan: Detecting Backdoors in Black-Box Large Language Models via Targeted In-Context Illumination</b></i>, Xiaoyi Pang et al.
-    <a href="https://arxiv.org/abs/2506.00000" target="_blank">
+    <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/118421" target="_blank">
       <img src="https://img.shields.io/badge/NeurIPS-2025-green" alt="NeurIPS 2025">
     </a>
   </li>
