@@ -1,13 +1,5 @@
 <div align="center">
   <h1>From Thinker to Society: A Survey on Security in<br>Hierarchical Autonomy Evolution of AI Agents 🔐</h1>
-
-  <br><br>
-
-  [![arXiv](https://img.shields.io/badge/arXiv-HAE--Survey-red)](https://arxiv.org/abs/XXXX.XXXXX)
-  [![Citation](https://img.shields.io/badge/citation-0-yellow)](https://example.com/citations)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your-repo/pulls)
-
   <br>
 
 Welcome to the **"HAE Agent Security"** repository！
@@ -22,28 +14,13 @@ We propose the **Hierarchical Autonomy Evolution (HAE) framework**, which organi
 
 🌐 **L3 Collective Autonomy** — *The Society* · Systemic risks in multi-agent ecosystems
 
-🔔 🔔 🔔 For more detailed information, please refer to [our paper](./paper/From Thinker to Society-A Survey on Security in Hierarchical Autonomy Evolution of AI Agents.pdf)~
+🔔 🔔 🔔 For more detailed information, please refer to [our paper](./From_Thinker_to_Society.pdf)~
 
 ✉️ ➡️ 📪 If you have any questions, please feel free to contact **the lead authors** at:
 
 **`elinazhang0210@gmail.com` | `lu.zhou@nuaa.edu.cn` | `xiaogangxu00@gmail.com`**
 
 </div>
-
----
-
-## 📖 Citation
-
-If you find this project helpful in your research, please consider citing:
-
-```bibtex
-@article{zhang2025thinker,
-  title={From Thinker to Society: A Survey on Security in Hierarchical Autonomy Evolution of AI Agents},
-  author={Zhang, Xiaolei and Zhou, Lu and Xu, Xiaogang and Wu, Jiafei and Du, Tianyu and Huang, Heqing and Peng, Hao and Liu, Zhe},
-  journal={arXiv preprint},
-  year={2025}
-}
-```
 
 ---
 
