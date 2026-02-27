@@ -30,14 +30,14 @@ AI agents have evolved from passive predictive tools into **active entities capa
 
 The **HAE (Hierarchical Autonomy Evolution) framework** addresses this gap by organizing agent security along the natural axis of autonomy growth:
 
-![HAE Framework](./figures/fig_hae.png)
+![HAE Framework](./figures/fig_hae.jpg)
 *Figure 1: The HAE Framework — co-evolution of agent capabilities and emergent threats across three autonomy levels.*
 
 ---
 
 Unlike existing surveys that adopt static or single-perspective taxonomies (lifecycle, trustworthy attributes, or component-based), HAE reveals **how the same threat undergoes fundamental qualitative transitions** as agent autonomy scales — from informational fallacies (L1), to erroneous real-world operations (L2), to mass systemic failures (L3).
 
-![Threat Taxonomy](./figures/fig_taxonomy.png)
+![Threat Taxonomy](./figures/fig_taxonomy.jpg)
 *Figure 2: Autonomy-aware threat taxonomy spanning cognitive, executional, and collective layers.*
 
 ---
