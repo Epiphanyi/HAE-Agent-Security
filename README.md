@@ -1,5 +1,6 @@
 <div align="center">
   <h1>From Thinker to Society: A Survey on Security in<br>Hierarchical Autonomy Evolution of AI Agents 🔐</h1>
+  <a href="https://arxiv.org/abs/2603.07496"><img src="https://img.shields.io/badge/arXiv-2603.07496-b31b1b.svg" alt="arXiv"></a>
   <br>
 
 Welcome to the **"HAE Agent Security"** repository！
